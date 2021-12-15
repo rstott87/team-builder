@@ -1,0 +1,6 @@
+use a state hook to hold list of members
+
+
+
+have an array in form that names get added to
+that array can get added to app's state with the function passed odwn
